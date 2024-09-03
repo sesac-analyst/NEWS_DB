@@ -2,7 +2,7 @@
 
 ## 1. ERD
 
-<img src="https://github.com/user-attachments/assets/63a5a968-f9f5-4d7b-9897-86db61fc9527" />
+<img src="https://github.com/user-attachments/assets/64173dd0-549f-4840-af3e-430dd7dfa3f5" />
 
 - [ERD 명세서 경로](docs/erd.png)
 - [ERD 클라우드](https://www.erdcloud.com/d/Z7Kyvmtoa6ckn2aBe)
